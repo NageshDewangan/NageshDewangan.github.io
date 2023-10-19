@@ -3,13 +3,13 @@ I am pursuing my Ph.D. at IIT Kharagpur. Prior to joining IIT Kharagpur, I pursu
 
 ### Education
 PhD in Mechanical Engineering
-*🎓 IIT Kharagpur
+%🎓 IIT Kharagpur
 
 M.Tech. in Mechanical Engineering (Spl. Maintenance Engineering and Tribology)
-*🎓 IIT Dhanbad
+%🎓 IIT Dhanbad
 
 B.E. in Mechanical Engineering
-*🎓 BIT Durg
+%🎓 BIT Durg
 
 ### Project
 Working on machinery condition monitoring
