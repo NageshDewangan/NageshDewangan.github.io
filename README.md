@@ -6,4 +6,4 @@
 
 ### Projects
 
-# Minor Projects
+### Minor Projects
