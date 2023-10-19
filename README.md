@@ -1,1 +1,9 @@
-# NageshDewangan.github.io
+# NageshDewangan
+
+### Education
+
+### Work
+
+### Projects
+
+# Minor Projects
