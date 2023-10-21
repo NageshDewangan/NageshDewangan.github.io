@@ -1,7 +1,7 @@
-### Biography
+## Biography
 I am a Ph.D. Research Scholar in Mechanical Engineering Department, IIT Kharagpur. I am working on Machinery Condition Monitoring, specially using vibration.
 
-### Education
+## Education
 #### IIT Kharagpur
 ##### PhD (Pursuing), Mechanical Engineering
 ###### Research Field: Machinery Condition Monitoring
