@@ -16,3 +16,4 @@ Working on machinery condition monitoring
 
 ### Software
 LabVIEW, Python, MATLAB
+
